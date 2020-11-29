@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.exe
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.deps.json
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.runtimeconfig.json
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.dll
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\bin\Debug\netcoreapp3.1\09.Structures.pdb
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.AssemblyInfo.cs
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.dll
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.pdb
+C:\Users\Bla\source\repos\ClassAndObject\09.Structures\obj\Debug\netcoreapp3.1\09.Structures.genruntimeconfig.cache
